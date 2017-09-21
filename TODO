@@ -1,0 +1,5 @@
+TODO:
+
+Make the Unity binary locations configurable
+Add more patches
+Make the program less memory hungry (Currently loads the whole binary in at once!
